@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnakumar&label=Profile%20Views&color=C8A2FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/krishnakumar?label=Followers&style=for-the-badge&color=C8A2FF" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Krishna29Kumar&label=Profile%20Views&color=C8A2FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Krishna29Kumar?label=Followers&style=for-the-badge&color=C8A2FF" alt="Followers" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnakumar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Krishna29Kumar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -114,7 +114,7 @@
 # 🟩 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/C8A2FF/krishnakumar" alt="Krishna Kumar's GitHub Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/Krishna29Kumar" alt="Krishna Kumar's GitHub Contribution Calendar" />
 </p>
 
 ---
@@ -123,11 +123,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total%20Repositories-Check%20GitHub-C8A2FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKrishna29Kumar&query=%24.public_repos&label=Total%20Repositories&style=for-the-badge&color=C8A2FF&logo=github" alt="Total Repositories" />
 
-<img src="https://img.shields.io/github/followers/krishnakumar?style=for-the-badge&label=Followers&color=C8A2FF&logo=github" />
+<img src="https://img.shields.io/github/followers/Krishna29Kumar?style=for-the-badge&label=Followers&color=C8A2FF&logo=github" alt="Followers" />
 
-<img src="https://komarev.com/ghpvc/?username=krishnakumar&style=for-the-badge&label=Profile%20Views&color=C8A2FF" />
+<img src="https://komarev.com/ghpvc/?username=Krishna29Kumar&style=for-the-badge&label=Profile%20Views&color=C8A2FF" alt="Profile Views" />
 
 </p>
 
@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://github.com/krishnakumar">
+<a href="https://github.com/Krishna29Kumar">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -178,14 +178,3 @@
 🏆 Participating  → Hackathons • Coding Competitions
 🎮 Hobby          → Competitive E-Sports
 🚀 Goal           → Become a Skilled Full Stack Developer
-```
-
----
-
-<div align="center">
-
-### 💜 Code • Learn • Build • Repeat
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2FF&height=100&section=footer" />
-
-</div>
