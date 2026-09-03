@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=700&color=C8A2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Kumar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2200&pause=900&color=C8A2FF&center=true&vCenter=true&width=700&lines=KRISHNA+KUMAR" alt="KRISHNA KUMAR" />
 </h1>
 
 <h3 align="center">
-  💻 Computer Science Engineering Student | 🚀 Full Stack Developer in Progress
+  Computer Science Engineering Student | Full Stack Developer in Progress
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://portfolio-of-krishna.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-C8A2FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-C8A2FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -103,16 +103,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishnakumar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -121,26 +111,10 @@
 
 ---
 
-# 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakumar&theme=tokyo-night&hide_border=true&area=true&custom_title=Krishna%20Kumar's%20Contribution%20Graph" />
-</p>
-
----
-
 # 🟩 GitHub Contribution Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/C8A2FF/krishnakumar" alt="Krishna Kumar's GitHub Contribution Calendar" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnakumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -155,28 +129,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=krishnakumar&style=for-the-badge&label=Profile%20Views&color=C8A2FF" />
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/krishnakumar/InterviewAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnakumar&repo=InterviewAI&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/krishnakumar/RK-Movies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnakumar&repo=RK-Movies&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/krishnakumar?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20View%20All%20Projects-C8A2FF?style=for-the-badge" />
-  </a>
 </p>
 
 ---
