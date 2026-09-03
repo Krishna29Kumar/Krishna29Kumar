@@ -153,7 +153,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/krishna-kumar">
+<a href="https://www.linkedin.com/in/krishna-kumar-0410s07/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-C8A2FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -161,7 +161,7 @@
   <img src="https://img.shields.io/badge/Instagram-Follow-C8A2FF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:hare.krishna292008@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hare.krishna292008@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-C8A2FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
